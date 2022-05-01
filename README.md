@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Madson Kilder 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React e Js
+- 🌱 Estudando Ruby on Rails e React
 - 😄 Pronome: ele/dele
 
 <div align="center">
