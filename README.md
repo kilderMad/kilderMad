@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Madson Kilder Filho
 
-- 🔭 Trabalho com NodeJS, React e React Native
+- 🔭 Sou devenvolvedor FullStack, trabalho com React, React Native e NodeJS
 - 🌱 Estudando e aprimorando meus conhecimentos nesta stack
 - 😄 Pronome: ele/dele
 
