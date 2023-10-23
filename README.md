@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Madson Kilder Filho
 
 - 🔭 Trabalho com NodeJS, React e React Native
-- 🌱 Estudando e aprimorando meus conhecimetos nesta stack
+- 🌱 Estudando e aprimorando meus conhecimentos nesta stack
 - 😄 Pronome: ele/dele
 
 <div align="center">
